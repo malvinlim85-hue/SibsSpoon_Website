@@ -1,5 +1,5 @@
 # SibsSpoon_Website
-Proyek Web Native untuk Pâtisserie SibsSpoon - Student Project Expo
+Proyek Web Native untuk Pâtisserie SibsSpoon - Student Project Expo,
 Nama kelompok:
 Malvin - 2531015
 Denis Novyanto - 2531168
