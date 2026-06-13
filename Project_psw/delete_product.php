@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         
         $sql = "DELETE FROM product WHERE product_id = '$product_id'";
 
-        if ($conn->query($sql) === TRUE) {
+        if ($koneksi->query($sql) === TRUE) {
             echo json_encode([
                 "status" => "success",
                 "message" => "Produk berhasil dihapus dari sistem."
